@@ -1,0 +1,108 @@
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Open+Sans:wght@300&family=Oswald:wght@200&family=Playfair+Display&family=Poppins:wght@500&family=Raleway:wght@200&family=Roboto:wght@700&family=Source+Sans+Pro:wght@300&family=Ubuntu:wght@700&display=swap');
+#body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    /* font-size: 3rem; */
+
+}
+
+/* NAVBAR */
+.img-nav-iten {
+    width: 2rem;
+    margin-left: 1.2rem;
+}
+.ajuste01{
+    margin-left: 2.2rem;
+}
+.center {
+   justify-content: center;
+    text-align: center;
+    margin: 0;
+}
+#img-card {
+    border-top: 90%;
+}
+
+
+
+#card{
+    width: 40rem;
+
+}
+.each-card { 
+    width: 18rem;
+}
+
+#testimonials {
+    padding: 15% 15%;
+    text-align: center;
+    background-color: #ef8172;
+    color:rgb(255, 255, 255);
+    font-size: 2rem;
+    margin: 0rem 0rem 2rem 0;
+}
+h2 {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+.img2 {
+    width: 20%;
+    margin: 20px;
+}
+#press {
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 4%;
+}
+.empresaLogo {
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+.com {
+    width: 17rem;
+    padding: 1rem;
+}
+.btnn {
+    margin: 100px -10%;
+}
+.title{
+    margin: 1rem 0rem 1.6rem 0rem;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+
+/* CARDS */
+.txt-card{
+    text-align: left;
+    font-size: 1.3rem;
+    /* padding: 0.5rem; */
+}
+.img-card1 {
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+.card {
+    width: 80%;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+/* FOOTER */
+footer {
+    padding: 2rem 0rem 1rem 0rem;
+    text-align: center;
+    background-color: #fff;
+    font-size: 1.5rem;
+    font-family: 'Montserrat', sans-serif;
+}
+div p{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+h5{
+    font-size:4rem;
+}
